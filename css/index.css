@@ -1,4 +1,6 @@
-
+html{
+    overflow-x: hidden;
+}
 body{
     background-image: url('1 (1).jpg');
     background-repeat: no-repeat;
